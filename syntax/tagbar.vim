@@ -54,8 +54,8 @@ highlight default link TagbarPseudoID   NonText
 highlight default link TagbarFoldIcon   Statement
 highlight default link TagbarHighlight  Search
 
-highlight default TagbarAccessPublic    guifg=Green ctermfg=Green
-highlight default TagbarAccessProtected guifg=Blue  ctermfg=Blue
+highlight default TagbarAccessPublic    guifg=#94b380 ctermfg=Green
+highlight default TagbarAccessProtected guifg=#7fc1ca ctermfg=Blue
 highlight default TagbarAccessPrivate   guifg=Red   ctermfg=Red
 highlight default link TagbarVisibilityPublic    TagbarAccessPublic
 highlight default link TagbarVisibilityProtected TagbarAccessProtected
