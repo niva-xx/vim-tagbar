@@ -49,7 +49,7 @@ highlight default link TagbarNestedKind TagbarKind
 highlight default link TagbarScope      Title
 highlight default link TagbarType       Type
 highlight default link TagbarTagLineN   Comment
-highlight default link TagbarSignature  SpecialKey
+highlight default link TagbarSignature  String
 highlight default link TagbarPseudoID   NonText
 highlight default link TagbarFoldIcon   Statement
 highlight default link TagbarHighlight  Search
